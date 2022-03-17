@@ -4,6 +4,7 @@
     "timestamp": "2022-03-17T09:46:48.878386",
     "tokens": [
         {
+            "chainId": 56,
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "type": "BEP20",
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -186,6 +187,7 @@
             ]
         },
         {
+            "chainId": 56,
             "asset": "c20000714_t0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
             "type": "BEP20",
             "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
