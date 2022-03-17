@@ -1,0 +1,14 @@
+{
+    "name": "Rari Token",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x856333816B8E934bCF4C08FAf00Dd46e5Ac0aaeC",
+    "type": "BEP20",
+    "symbol": "RARI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x856333816B8E934bCF4C08FAf00Dd46e5Ac0aaeC",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

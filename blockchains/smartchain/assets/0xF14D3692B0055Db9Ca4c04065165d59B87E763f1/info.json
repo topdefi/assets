@@ -1,0 +1,15 @@
+{
+    "name": "MetaBUSDCoin",
+    "website": "https://metabusdcoin.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xF14D3692B0055Db9Ca4c04065165d59B87E763f1",
+    "type": "BEP20",
+    "symbol": "MBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF14D3692B0055Db9Ca4c04065165d59B87E763f1",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

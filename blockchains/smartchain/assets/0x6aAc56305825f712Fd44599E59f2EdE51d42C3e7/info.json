@@ -1,0 +1,32 @@
+{
+    "name": "Brewlabs",
+    "website": "https://brewlabs.info",
+    "description": "Brewlabs is a Binance Smart Chain utility project responsible for a number of community tools and platforms within the cryptocurrency space.",
+    "explorer": "https://bscscan.com/token/0x6aAc56305825f712Fd44599E59f2EdE51d42C3e7",
+    "type": "BEP20",
+    "symbol": "BREWLABS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6aAc56305825f712Fd44599E59f2EdE51d42C3e7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/brewlabs-code"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/teambrewlabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/brewlabs"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/brewlabs"
+        }
+    ]
+}

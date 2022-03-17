@@ -1,0 +1,15 @@
+{
+    "name": "RiseUpV2",
+    "website": "https://riseupofficial.finance",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x10C723D4a9180C468055a548BF58d7AB279Fe4Ac",
+    "type": "BEP20",
+    "symbol": "RIV2",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x10C723D4a9180C468055a548BF58d7AB279Fe4Ac",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

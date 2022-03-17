@@ -1,0 +1,15 @@
+{
+    "name": "Bitoshi",
+    "website": "https://www.bitoshi.org",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xD6f69d350ef024d364bF234b7Df4b6771f3BF861",
+    "type": "BEP20",
+    "symbol": "BTI",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xD6f69d350ef024d364bF234b7Df4b6771f3BF861",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

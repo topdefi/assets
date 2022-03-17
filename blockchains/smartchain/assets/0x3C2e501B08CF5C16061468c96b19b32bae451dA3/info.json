@@ -1,0 +1,15 @@
+{
+    "name": "EverReflect",
+    "website": "https://www.everreflect.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x3C2e501B08CF5C16061468c96b19b32bae451dA3",
+    "type": "BEP20",
+    "symbol": "EVRF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3C2e501B08CF5C16061468c96b19b32bae451dA3",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

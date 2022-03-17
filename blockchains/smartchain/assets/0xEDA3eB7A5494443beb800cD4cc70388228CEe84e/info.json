@@ -1,0 +1,15 @@
+{
+    "name": "DOXED",
+    "website": "http://www.doxedtoken.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xEDA3eB7A5494443beb800cD4cc70388228CEe84e",
+    "type": "BEP20",
+    "symbol": "DOX",
+    "decimals": 10,
+    "status": "active",
+    "id": "0xEDA3eB7A5494443beb800cD4cc70388228CEe84e",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

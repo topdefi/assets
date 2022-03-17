@@ -1,0 +1,28 @@
+{
+    "name": "Kodi",
+    "website": "https://kodicoin.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E",
+    "type": "BEP20",
+    "symbol": "KODI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Kodi_coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kodicoinofficial"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/kodi"
+        }
+    ]
+}

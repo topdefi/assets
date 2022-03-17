@@ -1,0 +1,15 @@
+{
+    "name": "BUSD Buffet",
+    "website": "https://busdbuffet.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x07335A076184C0453aE1987169D9c7ab7047a974",
+    "type": "BEP20",
+    "symbol": "BBFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x07335A076184C0453aE1987169D9c7ab7047a974",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

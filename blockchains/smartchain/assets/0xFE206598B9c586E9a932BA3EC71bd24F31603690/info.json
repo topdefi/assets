@@ -1,0 +1,15 @@
+{
+    "name": "BUSDMeta",
+    "website": "https://busdmeta.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xFE206598B9c586E9a932BA3EC71bd24F31603690",
+    "type": "BEP20",
+    "symbol": "BUSDM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xFE206598B9c586E9a932BA3EC71bd24F31603690",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "MetaAir",
+    "website": "https://metaaircoin.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x1828e38E7271c44e4BeC6810dC5279223cCd14ff",
+    "type": "BEP20",
+    "symbol": "MAIR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1828e38E7271c44e4BeC6810dC5279223cCd14ff",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

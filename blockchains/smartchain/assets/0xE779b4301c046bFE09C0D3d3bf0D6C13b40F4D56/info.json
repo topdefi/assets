@@ -1,0 +1,14 @@
+{
+    "name": "PLUTUS CAPITAL HOLDINGS",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xE779b4301c046bFE09C0D3d3bf0D6C13b40F4D56",
+    "type": "BEP20",
+    "symbol": "PCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE779b4301c046bFE09C0D3d3bf0D6C13b40F4D56",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

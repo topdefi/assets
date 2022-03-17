@@ -1,0 +1,15 @@
+{
+    "name": "SHIBACCA",
+    "website": "https://shibacca.net",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xfD2d4925a9f9a21c500085F4A55f7F7237A2fcb3",
+    "type": "BEP20",
+    "symbol": "BACCA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfD2d4925a9f9a21c500085F4A55f7F7237A2fcb3",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

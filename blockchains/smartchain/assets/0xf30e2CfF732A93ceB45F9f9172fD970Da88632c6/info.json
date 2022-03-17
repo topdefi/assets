@@ -1,0 +1,15 @@
+{
+    "name": "SNAFU",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xf30e2CfF732A93ceB45F9f9172fD970Da88632c6",
+    "type": "BEP20",
+    "symbol": "SeTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf30e2CfF732A93ceB45F9f9172fD970Da88632c6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+    ]
+}

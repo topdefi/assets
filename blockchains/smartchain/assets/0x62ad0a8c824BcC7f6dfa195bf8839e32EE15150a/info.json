@@ -1,0 +1,15 @@
+{
+    "name": "UKRRiseUp",
+    "website": "https://ukraineriseup.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x62ad0a8c824BcC7f6dfa195bf8839e32EE15150a",
+    "type": "BEP20",
+    "symbol": "UKRRiseUp",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x62ad0a8c824BcC7f6dfa195bf8839e32EE15150a",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

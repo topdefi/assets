@@ -1,0 +1,15 @@
+{
+    "name": "Grove Token",
+    "website": "https://www.grovetoken.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+    "type": "BEP20",
+    "symbol": "GVR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
