@@ -2,12 +2,12 @@
     "name": "Shitface Inu",
     "website": "https://shitfaceinu.com",
     "description": "",
-    "explorer": "https://bscscan.com/token/0x54cdc0517f66e3a4008B2A65f9fbb4011d46C7c0",
+    "explorer": "https://bscscan.com/token/0x190984cB2E74332c2c9017f4998E382fc31DC2D5",
     "type": "BEP20",
     "symbol": "SFINU",
     "decimals": 18,
     "status": "active",
-    "id": "0x54cdc0517f66e3a4008B2A65f9fbb4011d46C7c0",
+    "id": "0x190984cB2E74332c2c9017f4998E382fc31DC2D5",
     "tags": [
         "defi"
     ],
