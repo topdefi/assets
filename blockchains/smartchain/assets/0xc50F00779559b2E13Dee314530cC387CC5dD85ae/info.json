@@ -1,0 +1,15 @@
+{
+    "name": "DiversiFi Blue",
+    "website": "http://www.diversifi.app",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xc50F00779559b2E13Dee314530cC387CC5dD85ae",
+    "type": "BEP20",
+    "symbol": "DVFB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc50F00779559b2E13Dee314530cC387CC5dD85ae",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "BRANCH",
+    "website": "https://branchenvironment.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xD70b6DEf98Cd1eD076b1D10c72090177027F948E",
+    "type": "BEP20",
+    "symbol": "BRANCH",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xD70b6DEf98Cd1eD076b1D10c72090177027F948E",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

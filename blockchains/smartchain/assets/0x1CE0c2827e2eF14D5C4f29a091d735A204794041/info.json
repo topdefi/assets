@@ -1,0 +1,15 @@
+{
+    "name": "Binance-Peg Avalanche Token",
+    "website": "https://www.avalabs.org/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "type": "BEP20",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Platanaso",
+    "website": "https://platanaso.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x9d359D5215D13580A08bd4E5436C5E8Cd3201Fd0",
+    "type": "BEP20",
+    "symbol": "PLNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9d359D5215D13580A08bd4E5436C5E8Cd3201Fd0",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

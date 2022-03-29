@@ -1,0 +1,15 @@
+{
+    "name": "Bully Inu",
+    "website": "https://bullyinu.net",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x99459fE946B072E5211A6b01EA26BafABbf77aaa",
+    "type": "BEP20",
+    "symbol": "BULLY",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x99459fE946B072E5211A6b01EA26BafABbf77aaa",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

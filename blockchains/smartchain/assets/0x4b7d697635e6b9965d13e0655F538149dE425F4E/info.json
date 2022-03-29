@@ -1,0 +1,15 @@
+{
+    "name": "DiveWallet Token",
+    "website": "https://www.divewallet.net",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x4b7d697635e6b9965d13e0655F538149dE425F4E",
+    "type": "BEP20",
+    "symbol": "DWT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4b7d697635e6b9965d13e0655F538149dE425F4E",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
