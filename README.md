@@ -50,6 +50,14 @@ There are several scripts available for maintainers:
 - `make add-token asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Create `info.json` file as asset template.
 - `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to tokenlist.json.
 - `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to tokenlist-extended.json.
+```
+example
+    go run cmd/main.go add-tokenlist c60_t0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6 // Ethereum
+
+    go run cmd/main.go add-tokenlist c20000714_t0xD70b6DEf98Cd1eD076b1D10c72090177027F948E // BNB smart chain
+    
+    go run cmd/main.go add-tokenlist c10000250_t0xD70b6DEf98Cd1eD076b1D10c72090177027F948E // Fantom
+```
 
 ## On Checks
 
