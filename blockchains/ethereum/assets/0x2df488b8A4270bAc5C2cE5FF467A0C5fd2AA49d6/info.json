@@ -1,0 +1,15 @@
+{
+    "name": "Sharity",
+    "website": "https://www.sharitytoken.com/",
+    "description": "-",
+    "explorer": "https://etherscan.io/token/0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6",
+    "type": "ERC20",
+    "symbol": "$Shari",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
