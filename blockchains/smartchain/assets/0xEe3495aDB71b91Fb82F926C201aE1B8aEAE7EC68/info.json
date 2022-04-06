@@ -1,0 +1,15 @@
+{
+    "name": "FREEDOM",
+    "website": "https://weshallbfree.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xEe3495aDB71b91Fb82F926C201aE1B8aEAE7EC68",
+    "type": "BEP20",
+    "symbol": "FREEDOM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEe3495aDB71b91Fb82F926C201aE1B8aEAE7EC68",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

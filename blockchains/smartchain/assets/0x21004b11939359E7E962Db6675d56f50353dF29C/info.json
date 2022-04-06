@@ -1,0 +1,15 @@
+{
+    "name": "EternalFlow",
+    "website": "http://Eternalflow.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x21004b11939359E7E962Db6675d56f50353dF29C",
+    "type": "BEP20",
+    "symbol": "EFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x21004b11939359E7E962Db6675d56f50353dF29C",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
