@@ -1,0 +1,15 @@
+{
+    "name": "KoaCombat",
+    "website": "http://www.koacombat.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x6769D86f9C430f5AC6d9c861a0173613F1C5544C",
+    "type": "ERC20",
+    "symbol": "KoaCombat",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6769D86f9C430f5AC6d9c861a0173613F1C5544C",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

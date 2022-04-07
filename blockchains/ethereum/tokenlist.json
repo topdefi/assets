@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-03-30T22:40:37.689131",
+    "timestamp": "2022-04-07T20:04:01.768517",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3142,10 +3142,19 @@
             "symbol": "$Shari",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6/logo.png"
+        },
+        {
+            "asset": "c60_t0x6769d86f9c430f5ac6d9c861a0173613f1c5544c",
+            "type": "ERC20",
+            "address": "0x6769D86f9C430f5AC6d9c861a0173613F1C5544C",
+            "name": "KoaCombat",
+            "symbol": "KoaCombat",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6769d86f9c430f5ac6d9c861a0173613f1c5544c/logo.png"
         }
     ],
     "version": {
-        "major": 15,
+        "major": 16,
         "minor": 0,
         "patch": 0
     }
