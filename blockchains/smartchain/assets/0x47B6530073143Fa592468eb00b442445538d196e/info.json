@@ -1,0 +1,15 @@
+{
+    "name": "Crypto Lyst",
+    "website": "http://cryptolyst.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x47B6530073143Fa592468eb00b442445538d196e",
+    "type": "BEP20",
+    "symbol": "LYST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x47B6530073143Fa592468eb00b442445538d196e",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

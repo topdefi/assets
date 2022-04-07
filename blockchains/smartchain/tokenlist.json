@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-03-29T21:33:35.107003",
+    "timestamp": "2022-04-07T11:30:34.114236",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -949,10 +949,37 @@
             "symbol": "SFINU",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x190984cB2E74332c2c9017f4998E382fc31DC2D5/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x21004b11939359E7E962Db6675d56f50353dF29C",
+            "type": "BEP20",
+            "address": "0x21004b11939359E7E962Db6675d56f50353dF29C",
+            "name": "EternalFlow",
+            "symbol": "EFT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x21004b11939359E7E962Db6675d56f50353dF29C/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xEe3495aDB71b91Fb82F926C201aE1B8aEAE7EC68",
+            "type": "BEP20",
+            "address": "0xEe3495aDB71b91Fb82F926C201aE1B8aEAE7EC68",
+            "name": "FREEDOM",
+            "symbol": "FREEDOM",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xEe3495aDB71b91Fb82F926C201aE1B8aEAE7EC68/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x47B6530073143Fa592468eb00b442445538d196e",
+            "type": "BEP20",
+            "address": "0x47B6530073143Fa592468eb00b442445538d196e",
+            "name": "Crypto Lyst",
+            "symbol": "LYST",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x47B6530073143Fa592468eb00b442445538d196e/logo.png"
         }
     ],
     "version": {
-        "major": 34,
+        "major": 37,
         "minor": 0,
         "patch": 0
     }
