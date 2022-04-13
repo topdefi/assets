@@ -1,0 +1,15 @@
+{
+    "name": "Crypto Vault",
+    "website": "https://cryptovault.net",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xF72B0F79dC66f270FE52C67e56e12872F86cae2d",
+    "type": "BEP20",
+    "symbol": "CVT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xF72B0F79dC66f270FE52C67e56e12872F86cae2d",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
