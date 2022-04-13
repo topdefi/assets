@@ -1,0 +1,15 @@
+{
+    "name": "Matrix Protocol",
+    "website": "http://www.matrixprotocol.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xe28832f94Aa99d3eD4c61EF805330168556b4179",
+    "type": "BEP20",
+    "symbol": "MTX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xe28832f94Aa99d3eD4c61EF805330168556b4179",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

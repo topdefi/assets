@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-07T11:30:34.114236",
+    "timestamp": "2022-04-13T16:27:55.664732",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -976,10 +976,19 @@
             "symbol": "LYST",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x47B6530073143Fa592468eb00b442445538d196e/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xe28832f94Aa99d3eD4c61EF805330168556b4179",
+            "type": "BEP20",
+            "address": "0xe28832f94Aa99d3eD4c61EF805330168556b4179",
+            "name": "Matrix Protocol",
+            "symbol": "MTX",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xe28832f94Aa99d3eD4c61EF805330168556b4179/logo.png"
         }
     ],
     "version": {
-        "major": 37,
+        "major": 38,
         "minor": 0,
         "patch": 0
     }
