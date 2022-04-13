@@ -1,0 +1,15 @@
+{
+    "name": "Red Knight Token",
+    "website": "https://www.redknighttoken.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x1104080b3ca1F766a33C16aA890465D1A63e5078",
+    "type": "ERC20",
+    "symbol": "RKT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1104080b3ca1F766a33C16aA890465D1A63e5078",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

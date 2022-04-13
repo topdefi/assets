@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-12T11:52:42.629759",
+    "timestamp": "2022-04-13T13:40:00.727435",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3153,17 +3153,17 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6769d86f9c430f5ac6d9c861a0173613f1c5544c/logo.png"
         },
         {
-            "asset": "c60_t0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a",
+            "asset": "c60_t0x1104080b3ca1F766a33C16aA890465D1A63e5078",
             "type": "ERC20",
-            "address": "0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a",
-            "name": "Shaman",
-            "symbol": "SHAMAN",
+            "address": "0x1104080b3ca1F766a33C16aA890465D1A63e5078",
+            "name": "Red Knight Token",
+            "symbol": "RKT",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1104080b3ca1F766a33C16aA890465D1A63e5078/logo.png"
         }
     ],
     "version": {
-        "major": 17,
+        "major": 18,
         "minor": 0,
         "patch": 0
     }
