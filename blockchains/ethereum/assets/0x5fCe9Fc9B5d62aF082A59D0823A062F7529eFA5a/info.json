@@ -1,0 +1,15 @@
+{
+    "name": "Shaman",
+    "website": "https://www.shamankinginu.io/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a",
+    "type": "ERC20",
+    "symbol": "SHAMAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
