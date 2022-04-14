@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-13T14:02:09.361489",
+    "timestamp": "2022-04-14T09:01:00.611507",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3169,10 +3169,19 @@
             "symbol": "SHAMAN",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a/logo.png"
+        },
+        {
+            "asset": "c60_t0x5892F5d533E81f9dF91CD4A61886D555BAE6b166",
+            "type": "ERC20",
+            "address": "0x5892F5d533E81f9dF91CD4A61886D555BAE6b166",
+            "name": "ETHDox",
+            "symbol": "ETHDOX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5892F5d533E81f9dF91CD4A61886D555BAE6b166/logo.png"
         }
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     }

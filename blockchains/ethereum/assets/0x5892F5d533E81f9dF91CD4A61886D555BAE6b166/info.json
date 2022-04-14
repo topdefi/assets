@@ -1,0 +1,15 @@
+{
+    "name": "ETHDox",
+    "website": "http://www.doxedtoken.com/ethdox",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5892F5d533E81f9dF91CD4A61886D555BAE6b166",
+    "type": "ERC20",
+    "symbol": "ETHDOX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5892F5d533E81f9dF91CD4A61886D555BAE6b166",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
