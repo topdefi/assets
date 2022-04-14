@@ -1,0 +1,15 @@
+{
+    "name": "Crypto Comedy Club",
+    "website": "http://www.cryptocomedyclub.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xF21B44E4951a73E22B8AF0FA18188910f5D94D81",
+    "type": "BEP20",
+    "symbol": "LOL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF21B44E4951a73E22B8AF0FA18188910f5D94D81",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
