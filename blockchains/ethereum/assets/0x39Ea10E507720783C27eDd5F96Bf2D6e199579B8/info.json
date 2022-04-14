@@ -1,0 +1,15 @@
+{
+    "name": "DeltaFlare",
+    "website": "https://deltaflare.gg/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8",
+    "type": "ERC20",
+    "symbol": "HONR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
