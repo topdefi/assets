@@ -1,0 +1,15 @@
+{
+    "name": "Renteez Coin",
+    "website": "https://www.renteez.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x6d7911bF8556996c90cF9429fB24280f22337267",
+    "type": "BEP20",
+    "symbol": "EZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6d7911bF8556996c90cF9429fB24280f22337267",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
