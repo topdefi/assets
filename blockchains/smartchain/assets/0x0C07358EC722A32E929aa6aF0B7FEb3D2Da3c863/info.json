@@ -1,0 +1,21 @@
+{
+    "name": "EtherCake",
+    "type": "BEP20",
+    "symbol": "ECAKE",
+    "decimals": 18,
+    "website": "https://ethercake.app/",
+    "description": "EtherCake is a community-driven rewards token that rewards holders in Ethereum and CAKE automatically.",
+    "explorer": "https://bscscan.com/token/0x0C07358EC722A32E929aa6aF0B7FEb3D2Da3c863",
+    "status": "active",
+    "id": "0x0C07358EC722A32E929aa6aF0B7FEb3D2Da3c863",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/Ethercaketoken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Ethercaketoken"
+        }
+    ]
+}
