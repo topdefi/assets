@@ -1,0 +1,15 @@
+{
+    "name": "Reflex Finance V2",
+    "website": "https://reflexfinance.net",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+    "type": "BEP20",
+    "symbol": "REFLEX V2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
