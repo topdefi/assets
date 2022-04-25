@@ -1,0 +1,15 @@
+{
+    "name": "Totally A Rug Pull",
+    "website": "https://www.totallyarugpull.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x6C0A568a3fFb61957812fb3e300e4C10B708d336",
+    "type": "BEP20",
+    "symbol": "TARP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6C0A568a3fFb61957812fb3e300e4C10B708d336",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
