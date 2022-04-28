@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-25T22:06:09.753932",
+    "timestamp": "2022-04-28T11:39:21.273708",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1030,10 +1030,19 @@
             "symbol": "TARP",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6C0A568a3fFb61957812fb3e300e4C10B708d336/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+            "type": "BEP20",
+            "address": "0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+            "name": "BTC Vantage",
+            "symbol": "$VANTAGE",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b/logo.png"
         }
     ],
     "version": {
-        "major": 43,
+        "major": 44,
         "minor": 0,
         "patch": 0
     }

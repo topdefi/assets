@@ -1,0 +1,15 @@
+{
+    "name": "BTC Vantage",
+    "website": "http://btcvantage.finance",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+    "type": "BEP20",
+    "symbol": "$VANTAGE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
