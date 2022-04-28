@@ -1,0 +1,15 @@
+{
+    "name": "SCARDust",
+    "website": "https://warmus.land/scardust",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05",
+    "type": "ERC20",
+    "symbol": "SCARD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
