@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-16T08:59:47.200002",
+    "timestamp": "2022-04-28T21:13:27.121293",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3196,10 +3196,19 @@
             "symbol": "SHIFT",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xB250382D6a8b5E366236af688a22e0036c4d63a9/logo.png"
+        },
+        {
+            "asset": "c60_t0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+            "type": "ERC20",
+            "address": "0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+            "name": "Crypto Titan Token",
+            "symbol": "TITN",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5/logo.png"
         }
     ],
     "version": {
-        "major": 22,
+        "major": 23,
         "minor": 0,
         "patch": 0
     }
