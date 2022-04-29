@@ -1,0 +1,15 @@
+{
+    "name": "Vulkania",
+    "website": "https://vulkania.io",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x797Bb0BeeA437D2762A755ea911C0046C1284568",
+    "type": "BEP20",
+    "symbol": "VLK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x797Bb0BeeA437D2762A755ea911C0046C1284568",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
