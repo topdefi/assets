@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-28T21:15:38.699419",
+    "timestamp": "2022-04-30T20:03:39.871013",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3214,10 +3214,19 @@
             "symbol": "SCARD",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05/logo.png"
+        },
+        {
+            "asset": "c60_t0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
+            "type": "ERC20",
+            "address": "0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
+            "name": "SCARDust",
+            "symbol": "SCARD",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2F6Ad7743924B1901a0771746152dde44C5F11DE/logo.png"
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }
