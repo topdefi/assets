@@ -1,0 +1,15 @@
+{
+    "name": "ETHFan Burn",
+    "website": "https://efb.ethfan.club",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x002d3C280f719c4B0444680A8C4B1785b6cC2A59",
+    "type": "BEP20",
+    "symbol": "$EFB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x002d3C280f719c4B0444680A8C4B1785b6cC2A59",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

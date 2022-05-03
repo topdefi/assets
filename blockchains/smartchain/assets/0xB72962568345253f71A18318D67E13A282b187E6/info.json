@@ -1,0 +1,15 @@
+{
+    "name": "ETH Fan Token Ecosystem",
+    "website": "https://ethfan.club",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xB72962568345253f71A18318D67E13A282b187E6",
+    "type": "BEP20",
+    "symbol": "EFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB72962568345253f71A18318D67E13A282b187E6",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
