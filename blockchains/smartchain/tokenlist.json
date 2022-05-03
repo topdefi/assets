@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-29T16:54:26.595081",
+    "timestamp": "2022-05-03T18:34:50.114384",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1048,10 +1048,19 @@
             "symbol": "VLK",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x797Bb0BeeA437D2762A755ea911C0046C1284568/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+            "type": "BEP20",
+            "address": "0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+            "name": "Equitable Growth Opportunity",
+            "symbol": "EGO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa/logo.png"
         }
     ],
     "version": {
-        "major": 45,
+        "major": 46,
         "minor": 0,
         "patch": 0
     }

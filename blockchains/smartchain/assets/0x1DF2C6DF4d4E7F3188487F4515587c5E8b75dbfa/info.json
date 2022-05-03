@@ -1,0 +1,15 @@
+{
+    "name": "Equitable Growth Opportunity",
+    "website": "https://growyourego.finance",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+    "type": "BEP20",
+    "symbol": "EGO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
