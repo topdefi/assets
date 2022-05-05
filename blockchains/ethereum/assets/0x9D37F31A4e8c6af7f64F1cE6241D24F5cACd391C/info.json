@@ -1,0 +1,15 @@
+{
+    "name": "VIRAL",
+    "website": "https://theviralcrypto.co",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C",
+    "type": "ERC20",
+    "symbol": "VIRAL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
