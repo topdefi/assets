@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-05T11:09:05.029935",
+    "timestamp": "2022-05-06T17:36:00.374387",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3232,10 +3232,19 @@
             "symbol": "VIRAL",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C/logo.png"
+        },
+        {
+            "asset": "c60_t0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
+            "type": "ERC20",
+            "address": "0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
+            "name": "Voltnobi",
+            "symbol": "$VOLTZ",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0/logo.png"
         }
     ],
     "version": {
-        "major": 27,
+        "major": 28,
         "minor": 0,
         "patch": 0
     }
