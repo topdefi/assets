@@ -1,0 +1,15 @@
+{
+    "name": "Balto Token",
+    "website": "https://baltotoken.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xe5977835A013e3A5a52f44f8422734bd2dc545F0",
+    "type": "BEP20",
+    "symbol": "BALTO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe5977835A013e3A5a52f44f8422734bd2dc545F0",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
