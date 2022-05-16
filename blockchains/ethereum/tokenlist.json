@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-06T17:36:00.374387",
+    "timestamp": "2022-05-16T11:08:49.148132",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3241,10 +3241,19 @@
             "symbol": "$VOLTZ",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0/logo.png"
+        },
+        {
+            "asset": "c60_t0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+            "type": "ERC20",
+            "address": "0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+            "name": "Dripto",
+            "symbol": "DRYP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027/logo.png"
         }
     ],
     "version": {
-        "major": 28,
+        "major": 29,
         "minor": 0,
         "patch": 0
     }
