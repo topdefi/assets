@@ -1,5 +1,6 @@
 {
     "name": "Krypto Pets",
+    "website": "https://kryptopetsmetaverse.com",
     "description": "",
     "explorer": "https://etherscan.io/token/0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3",
     "type": "ERC20",
