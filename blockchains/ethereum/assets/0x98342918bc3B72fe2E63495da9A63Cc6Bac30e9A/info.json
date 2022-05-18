@@ -1,0 +1,14 @@
+{
+    "name": "FlipToken",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A",
+    "type": "ERC20",
+    "symbol": "FLIP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
