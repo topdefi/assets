@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-18T11:52:56.567203",
+    "timestamp": "2022-05-18T15:52:34.787581",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3259,10 +3259,19 @@
             "symbol": "KPETS",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3/logo.png"
+        },
+        {
+            "asset": "c60_t0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+            "type": "ERC20",
+            "address": "0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+            "name": "SHIFT",
+            "symbol": "SHIFT",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1/logo.png"
         }
     ],
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     }
