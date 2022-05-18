@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-16T11:08:49.148132",
+    "timestamp": "2022-05-18T11:52:56.567203",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3250,10 +3250,19 @@
             "symbol": "DRYP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027/logo.png"
+        },
+        {
+            "asset": "c60_t0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3",
+            "type": "ERC20",
+            "address": "0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3",
+            "name": "Krypto Pets",
+            "symbol": "KPETS",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3/logo.png"
         }
     ],
     "version": {
-        "major": 29,
+        "major": 30,
         "minor": 0,
         "patch": 0
     }
