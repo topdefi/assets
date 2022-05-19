@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-18T17:02:47.070587",
+    "timestamp": "2022-05-19T16:08:37.167250",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3277,10 +3277,19 @@
             "symbol": "FLIP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A/logo.png"
+        },
+        {
+            "asset": "c60_t0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
+            "type": "ERC20",
+            "address": "0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
+            "name": "REI Token",
+            "symbol": "REIT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6/logo.png"
         }
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     }

@@ -1,0 +1,14 @@
+{
+    "name": "REI Token",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
+    "type": "ERC20",
+    "symbol": "REIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
