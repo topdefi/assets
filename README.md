@@ -59,6 +59,8 @@ There are several scripts available for maintainers:
         go run cmd/main.go add-tokenlist c20000714_t0xD70b6DEf98Cd1eD076b1D10c72090177027F948E // BNB smart chain
 
         go run cmd/main.go add-tokenlist c10000250_t0xD70b6DEf98Cd1eD076b1D10c72090177027F948E // Fantom
+
+        go run cmd/main.go add-tokenlist c966_t0xD70b6DEf98Cd1eD076b1D10c72090177027F948E // Polygon
     ```
 
 ## On Checks
