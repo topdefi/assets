@@ -3252,13 +3252,13 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027/logo.png"
         },
         {
-            "asset": "c60_t0x379C53D67f1e73855314AE3e549Bc94EE478c9Fa",
+            "asset": "c60_t0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
             "type": "ERC20",
-            "address": "0x379C53D67f1e73855314AE3e549Bc94EE478c9Fa",
+            "address": "0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
             "name": "Krypto Pets",
             "symbol": "KPETS",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x379C53D67f1e73855314AE3e549Bc94EE478c9Fa/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD/logo.png"
         },
         {
             "asset": "c60_t0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
