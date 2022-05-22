@@ -1,0 +1,21 @@
+{
+    "name": "Save Bitcoin",
+    "type": "BEP20",
+    "symbol": "SBTC",
+    "decimals": 9,
+    "website": "https://savebitcoin.finance/",
+    "description": "Save Bitcoin is a community-driven rewards token that rewards holders in BTCB automatically.",
+    "explorer": "https://bscscan.com/token/0x0ae91B5796BfafD8Be413cDF7b2E948D4e3Dd0Da",
+    "status": "active",
+    "id": "0x0ae91B5796BfafD8Be413cDF7b2E948D4e3Dd0Da",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/Savebitcoin_bsc"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Savebitcoinbsc"
+        }
+    ]
+}
