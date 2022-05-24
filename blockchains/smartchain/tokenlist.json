@@ -1036,7 +1036,7 @@
             "type": "BEP20",
             "address": "0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
             "name": "BTC Vantage",
-            "symbol": "$VANTAGE",
+            "symbol": "VANTAGE",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b/logo.png"
         },
@@ -1072,7 +1072,7 @@
             "type": "BEP20",
             "address": "0x002d3C280f719c4B0444680A8C4B1785b6cC2A59",
             "name": "ETHFan Burn",
-            "symbol": "$EFB",
+            "symbol": "EFB",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x002d3C280f719c4B0444680A8C4B1785b6cC2A59/logo.png"
         },

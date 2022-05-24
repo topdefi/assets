@@ -3139,7 +3139,7 @@
             "type": "ERC20",
             "address": "0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6",
             "name": "Sharity",
-            "symbol": "$Shari",
+            "symbol": "Shari",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6/logo.png"
         },
@@ -3238,7 +3238,7 @@
             "type": "ERC20",
             "address": "0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
             "name": "Voltnobi",
-            "symbol": "$VOLTZ",
+            "symbol": "VOLTZ",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0/logo.png"
         },
