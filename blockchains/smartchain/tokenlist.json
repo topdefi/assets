@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-17T01:00:11.096220",
+    "timestamp": "2022-05-31T11:23:05.146534",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1093,10 +1093,19 @@
             "symbol": "OGEM",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+            "type": "BEP20",
+            "address": "0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+            "name": "Bitoshi V2",
+            "symbol": "BTIV2",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1/logo.png"
         }
     ],
     "version": {
-        "major": 51,
+        "major": 52,
         "minor": 0,
         "patch": 0
     }
