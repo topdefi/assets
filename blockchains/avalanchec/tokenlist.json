@@ -1,11 +1,47 @@
 {
-    "name": "Trust Wallet: Avalanche C Chain List",
+    "name": "Trust Wallet: Avalanche C-Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-01-27T14:33:26.183301",
+    "timestamp": "2022-06-09T00:50:45.113908",
     "tokens": [
+        {
+            "asset": "c10009000_t0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "type": "AVALANCHE",
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "asset": "c10009000_t0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "type": "AVALANCHE",
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+            "asset": "c10009000_t0x60781C2586D68229fde47564546784ab3fACA982",
+            "type": "AVALANCHE",
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/avalanchec/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "asset": "c10009000_t0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+            "type": "AVALANCHE",
+            "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+            "name": "Ape-X",
+            "symbol": "APE-X",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/avalanchec/assets/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
+        }
     ],
     "version": {
-        "major": 1,
+        "major": 5,
         "minor": 0,
         "patch": 0
     }
