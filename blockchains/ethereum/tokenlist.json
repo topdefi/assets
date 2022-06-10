@@ -3279,13 +3279,13 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A/logo.png"
         },
         {
-            "asset": "c60_t0x3dA64D2eCEb9224c5F86d0Bf226361A5e582F8bf",
+            "asset": "c60_t0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7",
             "type": "ERC20",
-            "address": "0x3dA64D2eCEb9224c5F86d0Bf226361A5e582F8bf",
+            "address": "0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7",
             "name": "REI Token",
             "symbol": "REIT",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3dA64D2eCEb9224c5F86d0Bf226361A5e582F8bf/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7/logo.png"
         }
     ],
     "version": {
