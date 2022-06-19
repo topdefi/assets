@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-06-12T20:16:44.050690",
+    "timestamp": "2022-06-19T10:22:11.619597",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1111,10 +1111,19 @@
             "symbol": "BCAT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x188173379AC8963048Afe01C5d3D5998FEe67254",
+            "type": "BEP20",
+            "address": "0x188173379AC8963048Afe01C5d3D5998FEe67254",
+            "name": "CUSTODIY $CTY",
+            "symbol": "CTY",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x188173379AC8963048Afe01C5d3D5998FEe67254/logo.png"
         }
     ],
     "version": {
-        "major": 53,
+        "major": 54,
         "minor": 0,
         "patch": 0
     }

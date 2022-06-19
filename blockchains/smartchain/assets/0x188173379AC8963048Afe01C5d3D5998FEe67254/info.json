@@ -1,0 +1,15 @@
+{
+    "name": "CUSTODIY $CTY",
+    "website": "http://www.custodiy.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x188173379AC8963048Afe01C5d3D5998FEe67254",
+    "type": "BEP20",
+    "symbol": "CTY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x188173379AC8963048Afe01C5d3D5998FEe67254",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
