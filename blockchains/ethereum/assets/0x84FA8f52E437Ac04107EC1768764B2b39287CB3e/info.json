@@ -1,0 +1,15 @@
+{
+    "name": "Grove Token",
+    "website": "https://www.grovetoken.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+    "type": "ERC20",
+    "symbol": "GVR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

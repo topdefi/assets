@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-06-06T14:43:33.611304",
+    "timestamp": "2022-06-24T11:02:15.457126",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3286,10 +3286,19 @@
             "symbol": "REIT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7/logo.png"
+        },
+        {
+            "asset": "c60_t0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+            "type": "ERC20",
+            "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+            "name": "Grove Token",
+            "symbol": "GVR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x84FA8f52E437Ac04107EC1768764B2b39287CB3e/logo.png"
         }
     ],
     "version": {
-        "major": 34,
+        "major": 35,
         "minor": 0,
         "patch": 0
     }
