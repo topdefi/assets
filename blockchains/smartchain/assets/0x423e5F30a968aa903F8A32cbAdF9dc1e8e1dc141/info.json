@@ -2,12 +2,12 @@
     "name": "Bitoshi V2",
     "website": "https://www.bitoshi.org",
     "description": "",
-    "explorer": "https://bscscan.com/token/0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+    "explorer": "https://bscscan.com/token/0x423e5F30a968aa903F8A32cbAdF9dc1e8e1dc141",
     "type": "BEP20",
     "symbol": "BTIV2",
     "decimals": 18,
     "status": "active",
-    "id": "0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+    "id": "0x423e5F30a968aa903F8A32cbAdF9dc1e8e1dc141",
     "tags": [
         "defi"
     ],
