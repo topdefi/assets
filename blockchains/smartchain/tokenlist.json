@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-06-27T22:16:36.726196",
+    "timestamp": "2022-06-29T18:00:54.772394",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1129,10 +1129,19 @@
             "symbol": "DRMCLUB",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+            "type": "BEP20",
+            "address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+            "name": "H2O Network Token",
+            "symbol": "H2ON",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1/logo.png"
         }
     ],
     "version": {
-        "major": 55,
+        "major": 56,
         "minor": 0,
         "patch": 0
     }
