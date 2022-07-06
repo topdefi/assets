@@ -1,0 +1,15 @@
+{
+    "name": "WPT Investing Corp",
+    "website": "https://www.warpigs.io/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA",
+    "type": "ERC20",
+    "symbol": "WPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
