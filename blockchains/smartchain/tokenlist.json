@@ -1131,13 +1131,13 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3/logo.png"
         },
         {
-            "asset": "c20000714_t0xDFCE192c90A31e8537aF2F579d08255052907944",
+            "asset": "c20000714_t0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
             "type": "BEP20",
-            "address": "0xDFCE192c90A31e8537aF2F579d08255052907944",
+            "address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
             "name": "H2O Network Token",
             "symbol": "H2ON",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xDFCE192c90A31e8537aF2F579d08255052907944/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1/logo.png"
         }
     ],
     "version": {
