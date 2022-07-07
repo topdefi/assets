@@ -2,12 +2,12 @@
     "name": "H2O Network Token",
     "website": "https://www.h2o-securities.com/",
     "description": "",
-    "explorer": "https://bscscan.com/token/0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+    "explorer": "https://bscscan.com/token/0xDFCE192c90A31e8537aF2F579d08255052907944",
     "type": "BEP20",
     "symbol": "H2ON",
     "decimals": 18,
     "status": "active",
-    "id": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+    "id": "0xDFCE192c90A31e8537aF2F579d08255052907944",
     "tags": [
         "defi"
     ],
