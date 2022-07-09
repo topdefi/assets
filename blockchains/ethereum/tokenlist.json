@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-06T16:21:37.549356",
+    "timestamp": "2022-07-09T17:26:33.401321",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3304,10 +3304,19 @@
             "symbol": "WPT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA/logo.png"
+        },
+        {
+            "asset": "c60_t0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+            "type": "ERC20",
+            "address": "0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+            "name": "The Revolution Token",
+            "symbol": "TRT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8/logo.png"
         }
     ],
     "version": {
-        "major": 36,
+        "major": 37,
         "minor": 0,
         "patch": 0
     }
