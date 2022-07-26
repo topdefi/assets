@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-09T17:26:33.401321",
+    "timestamp": "2022-07-27T01:08:28.560471",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3313,10 +3313,19 @@
             "symbol": "TRT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8/logo.png"
+        },
+        {
+            "asset": "c60_t0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
+            "type": "ERC20",
+            "address": "0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
+            "name": "JigsawToken",
+            "symbol": "JIGSAW",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B/logo.png"
         }
     ],
     "version": {
-        "major": 37,
+        "major": 38,
         "minor": 0,
         "patch": 0
     }
