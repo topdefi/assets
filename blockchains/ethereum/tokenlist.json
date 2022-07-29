@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-27T01:08:28.560471",
+    "timestamp": "2022-07-29T11:38:19.770299",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3322,10 +3322,19 @@
             "symbol": "JIGSAW",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B/logo.png"
+        },
+        {
+            "asset": "c60_t0x8686525d6627A25C68De82c228448f43c97999F2",
+            "type": "ERC20",
+            "address": "0x8686525d6627A25C68De82c228448f43c97999F2",
+            "name": "Lilly Finance",
+            "symbol": "Ly",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8686525d6627A25C68De82c228448f43c97999F2/logo.png"
         }
     ],
     "version": {
-        "major": 38,
+        "major": 39,
         "minor": 0,
         "patch": 0
     }
