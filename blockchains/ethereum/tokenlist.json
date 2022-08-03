@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-16T08:59:47.200002",
+    "timestamp": "2022-07-29T11:38:19.770299",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3139,7 +3139,7 @@
             "type": "ERC20",
             "address": "0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6",
             "name": "Sharity",
-            "symbol": "$Shari",
+            "symbol": "Shari",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6/logo.png"
         },
@@ -3196,10 +3196,145 @@
             "symbol": "SHIFT",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xB250382D6a8b5E366236af688a22e0036c4d63a9/logo.png"
+        },
+        {
+            "asset": "c60_t0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+            "type": "ERC20",
+            "address": "0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+            "name": "Crypto Titan Token",
+            "symbol": "TITN",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5/logo.png"
+        },
+        {
+            "asset": "c60_t0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05",
+            "type": "ERC20",
+            "address": "0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05",
+            "name": "SCARDust",
+            "symbol": "SCARD",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05/logo.png"
+        },
+        {
+            "asset": "c60_t0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
+            "type": "ERC20",
+            "address": "0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
+            "name": "SCARDust",
+            "symbol": "SCARD",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2F6Ad7743924B1901a0771746152dde44C5F11DE/logo.png"
+        },
+        {
+            "asset": "c60_t0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C",
+            "type": "ERC20",
+            "address": "0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C",
+            "name": "VIRAL",
+            "symbol": "VIRAL",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9D37F31A4e8c6af7f64F1cE6241D24F5cACd391C/logo.png"
+        },
+        {
+            "asset": "c60_t0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
+            "type": "ERC20",
+            "address": "0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
+            "name": "Voltnobi",
+            "symbol": "VOLTZ",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0/logo.png"
+        },
+        {
+            "asset": "c60_t0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+            "type": "ERC20",
+            "address": "0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+            "name": "Dripto",
+            "symbol": "DRYP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027/logo.png"
+        },
+        {
+            "asset": "c60_t0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
+            "type": "ERC20",
+            "address": "0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
+            "name": "Krypto Pets",
+            "symbol": "KPETS",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD/logo.png"
+        },
+        {
+            "asset": "c60_t0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+            "type": "ERC20",
+            "address": "0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+            "name": "SHIFT",
+            "symbol": "SHIFT",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1/logo.png"
+        },
+        {
+            "asset": "c60_t0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A",
+            "type": "ERC20",
+            "address": "0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A",
+            "name": "FlipToken",
+            "symbol": "FLIP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A/logo.png"
+        },
+        {
+            "asset": "c60_t0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7",
+            "type": "ERC20",
+            "address": "0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7",
+            "name": "REI Token",
+            "symbol": "REIT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7/logo.png"
+        },
+        {
+            "asset": "c60_t0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+            "type": "ERC20",
+            "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+            "name": "Grove Token",
+            "symbol": "GVR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x84FA8f52E437Ac04107EC1768764B2b39287CB3e/logo.png"
+        },
+        {
+            "asset": "c60_t0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA",
+            "type": "ERC20",
+            "address": "0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA",
+            "name": "WPT Investing Corp",
+            "symbol": "WPT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA/logo.png"
+        },
+        {
+            "asset": "c60_t0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+            "type": "ERC20",
+            "address": "0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+            "name": "The Revolution Token",
+            "symbol": "TRT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8/logo.png"
+        },
+        {
+            "asset": "c60_t0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
+            "type": "ERC20",
+            "address": "0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
+            "name": "JigsawToken",
+            "symbol": "JIGSAW",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B/logo.png"
+        },
+        {
+            "asset": "c60_t0x8686525d6627A25C68De82c228448f43c97999F2",
+            "type": "ERC20",
+            "address": "0x8686525d6627A25C68De82c228448f43c97999F2",
+            "name": "Lilly Finance",
+            "symbol": "Ly",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8686525d6627A25C68De82c228448f43c97999F2/logo.png"
         }
     ],
     "version": {
-        "major": 22,
+        "major": 39,
         "minor": 0,
         "patch": 0
     }

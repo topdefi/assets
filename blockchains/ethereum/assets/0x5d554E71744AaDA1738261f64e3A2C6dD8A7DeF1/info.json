@@ -1,0 +1,15 @@
+{
+    "name": "SHIFT",
+    "website": "http://www.shift-token.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+    "type": "ERC20",
+    "symbol": "SHIFT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5d554E71744AaDA1738261f64e3A2C6dD8A7DeF1",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

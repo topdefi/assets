@@ -1,0 +1,15 @@
+{
+    "name": "Doge Resort",
+    "website": "https://dogeresort.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78",
+    "type": "BEP20",
+    "symbol": "DR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

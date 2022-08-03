@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-04-15T18:27:58.256693",
+    "timestamp": "2022-08-03T02:19:24.385224",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1012,10 +1012,154 @@
             "symbol": "EZ",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6d7911bF8556996c90cF9429fB24280f22337267/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+            "type": "BEP20",
+            "address": "0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+            "name": "Reflex Finance V2",
+            "symbol": "REFLEX V2",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x6C0A568a3fFb61957812fb3e300e4C10B708d336",
+            "type": "BEP20",
+            "address": "0x6C0A568a3fFb61957812fb3e300e4C10B708d336",
+            "name": "Totally A Rug Pull",
+            "symbol": "TARP",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6C0A568a3fFb61957812fb3e300e4C10B708d336/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+            "type": "BEP20",
+            "address": "0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b",
+            "name": "BTC Vantage",
+            "symbol": "VANTAGE",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x41d569B08314087e220b0fD8e3A7E3CcF8c4cC0b/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x797Bb0BeeA437D2762A755ea911C0046C1284568",
+            "type": "BEP20",
+            "address": "0x797Bb0BeeA437D2762A755ea911C0046C1284568",
+            "name": "Vulkania",
+            "symbol": "VLK",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x797Bb0BeeA437D2762A755ea911C0046C1284568/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+            "type": "BEP20",
+            "address": "0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa",
+            "name": "Equitable Growth Opportunity",
+            "symbol": "EGO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1DF2C6DF4d4E7F3188487F4515587c5E8b75dbfa/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xB72962568345253f71A18318D67E13A282b187E6",
+            "type": "BEP20",
+            "address": "0xB72962568345253f71A18318D67E13A282b187E6",
+            "name": "ETH Fan Token Ecosystem",
+            "symbol": "EFT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xB72962568345253f71A18318D67E13A282b187E6/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x002d3C280f719c4B0444680A8C4B1785b6cC2A59",
+            "type": "BEP20",
+            "address": "0x002d3C280f719c4B0444680A8C4B1785b6cC2A59",
+            "name": "ETHFan Burn",
+            "symbol": "EFB",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x002d3C280f719c4B0444680A8C4B1785b6cC2A59/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xe5977835A013e3A5a52f44f8422734bd2dc545F0",
+            "type": "BEP20",
+            "address": "0xe5977835A013e3A5a52f44f8422734bd2dc545F0",
+            "name": "Balto Token",
+            "symbol": "BALTO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xe5977835A013e3A5a52f44f8422734bd2dc545F0/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52",
+            "type": "BEP20",
+            "address": "0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52",
+            "name": "OnlyGems Finance",
+            "symbol": "OGEM",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+            "type": "BEP20",
+            "address": "0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1",
+            "name": "Bitoshi V2",
+            "symbol": "BTIV2",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd490D314aBEa20a6C8787a90cd7b374F24Df06c1/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9",
+            "type": "BEP20",
+            "address": "0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9",
+            "name": "BillionaireCat",
+            "symbol": "BCAT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x188173379AC8963048Afe01C5d3D5998FEe67254",
+            "type": "BEP20",
+            "address": "0x188173379AC8963048Afe01C5d3D5998FEe67254",
+            "name": "CUSTODIY $CTY",
+            "symbol": "CTY",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x188173379AC8963048Afe01C5d3D5998FEe67254/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3",
+            "type": "BEP20",
+            "address": "0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3",
+            "name": "DREAMCATION CLUB",
+            "symbol": "DRMCLUB",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+            "type": "BEP20",
+            "address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+            "name": "H2O Network Token",
+            "symbol": "H2ON",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+            "type": "BEP20",
+            "address": "0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+            "name": "Vault Finance",
+            "symbol": "VTFC",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x83f8AaeAa9A959293241BA803248cD129C92c31C/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78",
+            "type": "BEP20",
+            "address": "0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78",
+            "name": "Doge Resort",
+            "symbol": "DR",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78/logo.png"
         }
     ],
     "version": {
-        "major": 41,
+        "major": 58,
         "minor": 0,
         "patch": 0
     }

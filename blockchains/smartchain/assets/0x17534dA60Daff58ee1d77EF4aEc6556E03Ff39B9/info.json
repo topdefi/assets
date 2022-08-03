@@ -1,0 +1,15 @@
+{
+    "name": "BillionaireCat",
+    "website": "https://www.billionairecat.io/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9",
+    "type": "BEP20",
+    "symbol": "BCAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

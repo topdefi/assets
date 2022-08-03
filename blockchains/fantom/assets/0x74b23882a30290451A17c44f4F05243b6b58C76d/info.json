@@ -1,0 +1,32 @@
+{
+    "name": "Ethereum",
+    "website": "https://fantom.foundation/defi/",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "type": "FANTOM",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/Fantom_English"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FantomFDN"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/fantomfoundation"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}

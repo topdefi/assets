@@ -1,0 +1,37 @@
+{
+    "name": "Wrapped CRO",
+    "website": "https://crypto.com",
+    "research": "https://medium.com/about",
+    "description": "Pay and be paid in crypto anywhere, with any crypto, for free.",
+    "explorer": "https://cronoscan.com/token/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+    "type": "ERC20",
+    "symbol": "WCRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cryptocom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CryptoComOfficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/Crypto_com/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/crypto-com-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/crypto-com-chain/"
+        }
+    ]
+}

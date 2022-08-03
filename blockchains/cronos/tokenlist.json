@@ -1,0 +1,30 @@
+{
+    "name": "Trust Wallet: Cronos",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2022-06-09T00:48:43.762133",
+    "tokens": [
+        {
+            "asset": "c10000025_t0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "type": "ERC20",
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "name": "Wrapped CRO",
+            "symbol": "WCRO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/cronos/assets/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
+        },
+        {
+            "asset": "c10000025_t0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+            "type": "ERC20",
+            "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/cronos/assets/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png"
+        }
+    ],
+    "version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+    }
+}

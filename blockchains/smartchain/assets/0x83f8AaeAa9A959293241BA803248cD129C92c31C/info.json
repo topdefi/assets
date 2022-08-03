@@ -1,0 +1,15 @@
+{
+    "name": "Vault Finance",
+    "website": "https://thevaultfinance.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+    "type": "BEP20",
+    "symbol": "VTFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

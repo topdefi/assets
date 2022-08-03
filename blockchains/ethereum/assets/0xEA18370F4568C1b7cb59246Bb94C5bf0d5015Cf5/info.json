@@ -1,0 +1,15 @@
+{
+    "name": "Crypto Titan Token",
+    "website": "http://www.titancrypto.org",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+    "type": "ERC20",
+    "symbol": "TITN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEA18370F4568C1b7cb59246Bb94C5bf0d5015Cf5",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Dripto",
+    "website": "https://www.dripto.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+    "type": "ERC20",
+    "symbol": "DRYP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "OnlyGems Finance",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52",
+    "type": "BEP20",
+    "symbol": "OGEM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9b3C36B38B4A9d3fF4Dc90FbC4f6b8fe9B018B52",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

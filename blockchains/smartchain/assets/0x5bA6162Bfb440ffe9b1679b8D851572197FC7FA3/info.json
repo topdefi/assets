@@ -1,0 +1,15 @@
+{
+    "name": "DREAMCATION CLUB",
+    "website": "https://dreamcationclub.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3",
+    "type": "BEP20",
+    "symbol": "DRMCLUB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5bA6162Bfb440ffe9b1679b8D851572197FC7FA3",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

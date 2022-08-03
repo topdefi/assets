@@ -1,0 +1,15 @@
+{
+    "name": "Lilly Finance",
+    "website": "https://www.lillyfinance.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x8686525d6627A25C68De82c228448f43c97999F2",
+    "type": "ERC20",
+    "symbol": "Ly",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x8686525d6627A25C68De82c228448f43c97999F2",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

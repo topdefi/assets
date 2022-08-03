@@ -1,0 +1,15 @@
+{
+    "name": "The Revolution Token",
+    "website": "https://therevolutiontoken.com/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+    "type": "ERC20",
+    "symbol": "TRT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

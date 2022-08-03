@@ -1,0 +1,15 @@
+{
+    "name": "Krypto Pets",
+    "website": "https://kryptopetsmetaverse.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
+    "type": "ERC20",
+    "symbol": "KPETS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
