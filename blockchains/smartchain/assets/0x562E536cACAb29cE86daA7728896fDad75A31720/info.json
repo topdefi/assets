@@ -1,0 +1,21 @@
+{
+    "name": "True Money Finance",
+    "type": "BEP20",
+    "symbol": "TMF",
+    "decimals": 18,
+    "website": "https://truemoney.finance/",
+    "description": "True Money is a community-driven rebase token.",
+    "explorer": "https://bscscan.com/token/0x562E536cACAb29cE86daA7728896fDad75A31720",
+    "status": "active",
+    "id": "0x562E536cACAb29cE86daA7728896fDad75A31720",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/truemoneyfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/truemoneyfinance"
+        }
+    ]
+}
