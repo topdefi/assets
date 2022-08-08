@@ -1,0 +1,21 @@
+{
+    "name": "Binance Smart Node",
+    "type": "BEP20",
+    "symbol": "BSN",
+    "decimals": 18,
+    "website": "https://binancesmartnode.com/",
+    "description": "Binance Smart Node is a community-driven rebase token.",
+    "explorer": "https://bscscan.com/token/0xc8F3D57935EC7f48BCC73eB31c355DBcDFb48361",
+    "status": "active",
+    "id": "0xc8F3D57935EC7f48BCC73eB31c355DBcDFb48361",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/binancesmartnode"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/binancesmartnode"
+        }
+    ]
+}
