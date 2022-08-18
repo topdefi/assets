@@ -1,0 +1,15 @@
+{
+    "name": "METFX Watch-To-Earn",
+    "website": "https://www.metfx.io/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x6266a18F1605DA94e8317232ffa634C74646ac40",
+    "type": "BEP20",
+    "symbol": "MFX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6266a18F1605DA94e8317232ffa634C74646ac40",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

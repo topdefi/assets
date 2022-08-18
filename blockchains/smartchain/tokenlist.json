@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-08-03T02:19:24.385224",
+    "timestamp": "2022-08-18T20:49:19.612953",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1156,10 +1156,19 @@
             "symbol": "DR",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x6266a18F1605DA94e8317232ffa634C74646ac40",
+            "type": "BEP20",
+            "address": "0x6266a18F1605DA94e8317232ffa634C74646ac40",
+            "name": "METFX Watch-To-Earn",
+            "symbol": "MFX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6266a18F1605DA94e8317232ffa634C74646ac40/logo.png"
         }
     ],
     "version": {
-        "major": 58,
+        "major": 59,
         "minor": 0,
         "patch": 0
     }
