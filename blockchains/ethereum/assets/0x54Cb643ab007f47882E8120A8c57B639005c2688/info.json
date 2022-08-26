@@ -1,0 +1,15 @@
+{
+    "name": "IMPACTXPRIME",
+    "website": "https://impactxp.io/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x54Cb643ab007f47882E8120A8c57B639005c2688",
+    "type": "ERC20",
+    "symbol": "IXP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x54Cb643ab007f47882E8120A8c57B639005c2688",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

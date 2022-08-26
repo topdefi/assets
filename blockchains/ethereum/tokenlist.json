@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-29T11:38:19.770299",
+    "timestamp": "2022-08-26T23:00:34.733029",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3331,10 +3331,19 @@
             "symbol": "Ly",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8686525d6627A25C68De82c228448f43c97999F2/logo.png"
+        },
+        {
+            "asset": "c60_t0x54Cb643ab007f47882E8120A8c57B639005c2688",
+            "type": "ERC20",
+            "address": "0x54Cb643ab007f47882E8120A8c57B639005c2688",
+            "name": "IMPACTXPRIME",
+            "symbol": "IXP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x54Cb643ab007f47882E8120A8c57B639005c2688/logo.png"
         }
     ],
     "version": {
-        "major": 39,
+        "major": 40,
         "minor": 0,
         "patch": 0
     }
