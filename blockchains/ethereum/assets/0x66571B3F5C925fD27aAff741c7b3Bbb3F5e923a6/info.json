@@ -1,0 +1,15 @@
+{
+    "name": "Mivie Token",
+    "website": "https://mivietoken.com/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+    "type": "ERC20",
+    "symbol": "MET",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-08-26T23:00:34.733029",
+    "timestamp": "2022-09-22T20:27:49.953092",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3340,10 +3340,19 @@
             "symbol": "IXP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x54Cb643ab007f47882E8120A8c57B639005c2688/logo.png"
+        },
+        {
+            "asset": "c60_t0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+            "type": "ERC20",
+            "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+            "name": "Mivie Token",
+            "symbol": "MET",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6/logo.png"
         }
     ],
     "version": {
-        "major": 40,
+        "major": 41,
         "minor": 0,
         "patch": 0
     }
