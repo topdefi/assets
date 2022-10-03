@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-09-05T10:11:55.626024",
+    "timestamp": "2022-10-03T16:22:46.520654",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1183,10 +1183,19 @@
             "symbol": "BURN",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xD1673C00Ac7010bF2c376ebeA43633dd61A81016",
+            "type": "BEP20",
+            "address": "0xD1673C00Ac7010bF2c376ebeA43633dd61A81016",
+            "name": "Heros Token",
+            "symbol": "HEROS",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xD1673C00Ac7010bF2c376ebeA43633dd61A81016/logo.png"
         }
     ],
     "version": {
-        "major": 61,
+        "major": 62,
         "minor": 0,
         "patch": 0
     }
