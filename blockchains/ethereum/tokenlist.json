@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-09-22T20:27:49.953092",
+    "timestamp": "2022-10-03T16:26:31.182176",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3349,10 +3349,19 @@
             "symbol": "MET",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6/logo.png"
+        },
+        {
+            "asset": "c60_t0xb622400807765e73107B7196F444866D7EdF6f62",
+            "type": "ERC20",
+            "address": "0xb622400807765e73107B7196F444866D7EdF6f62",
+            "name": "Heros Token",
+            "symbol": "HEROS",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb622400807765e73107B7196F444866D7EdF6f62/logo.png"
         }
     ],
     "version": {
-        "major": 41,
+        "major": 42,
         "minor": 0,
         "patch": 0
     }

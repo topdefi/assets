@@ -1,0 +1,15 @@
+{
+    "name": "Heros Token",
+    "website": "https://hero-universe.com/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xb622400807765e73107B7196F444866D7EdF6f62",
+    "type": "ERC20",
+    "symbol": "HEROS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb622400807765e73107B7196F444866D7EdF6f62",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
