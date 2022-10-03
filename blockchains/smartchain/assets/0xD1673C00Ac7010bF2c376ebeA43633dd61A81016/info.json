@@ -1,6 +1,7 @@
 {
     "name": "Heros Token",
     "description": "",
+    "website": "https://hero-universe.com/",
     "explorer": "https://bscscan.com/token/0xD1673C00Ac7010bF2c376ebeA43633dd61A81016",
     "type": "BEP20",
     "symbol": "HEROS",
