@@ -1,0 +1,15 @@
+{
+    "name": "LUCKY ROO",
+    "website": "https://luckyroo.io",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+    "type": "ERC20",
+    "symbol": "ROO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

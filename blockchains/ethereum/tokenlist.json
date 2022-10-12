@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-10-03T16:26:31.182176",
+    "timestamp": "2022-10-12T12:21:23.271731",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3358,10 +3358,19 @@
             "symbol": "HEROS",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb622400807765e73107B7196F444866D7EdF6f62/logo.png"
+        },
+        {
+            "asset": "c60_t0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "type": "ERC20",
+            "address": "0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "name": "LUCKY ROO",
+            "symbol": "ROO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938/logo.png"
         }
     ],
     "version": {
-        "major": 42,
+        "major": 43,
         "minor": 0,
         "patch": 0
     }
