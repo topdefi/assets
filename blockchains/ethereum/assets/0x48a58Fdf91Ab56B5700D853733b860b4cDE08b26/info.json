@@ -1,0 +1,15 @@
+{
+    "name": "MetaMerce Token",
+    "website": "https://metamercetoken.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+    "type": "ERC20",
+    "symbol": "MMTKN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

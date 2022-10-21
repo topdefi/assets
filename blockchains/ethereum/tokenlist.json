@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-10-12T12:21:23.271731",
+    "timestamp": "2022-10-21T10:21:28.341614",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3367,10 +3367,19 @@
             "symbol": "ROO",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938/logo.png"
+        },
+        {
+            "asset": "c60_t0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+            "type": "ERC20",
+            "address": "0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+            "name": "MetaMerce Token",
+            "symbol": "MMTKN",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26/logo.png"
         }
     ],
     "version": {
-        "major": 43,
+        "major": 44,
         "minor": 0,
         "patch": 0
     }
