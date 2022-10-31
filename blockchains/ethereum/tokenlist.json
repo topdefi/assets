@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-10-21T10:21:28.341614",
+    "timestamp": "2022-10-31T22:06:05.630280",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3376,10 +3376,19 @@
             "symbol": "MMTKN",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26/logo.png"
+        },
+        {
+            "asset": "c60_t0x10f44a834097469AC340592d28c479c442E99bFe",
+            "type": "ERC20",
+            "address": "0x10f44a834097469AC340592d28c479c442E99bFe",
+            "name": "Alcazar",
+            "symbol": "ALCAZAR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x10f44a834097469AC340592d28c479c442E99bFe/logo.png"
         }
     ],
     "version": {
-        "major": 44,
+        "major": 45,
         "minor": 0,
         "patch": 0
     }
