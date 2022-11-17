@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-29T11:38:19.770299",
+    "timestamp": "2022-10-31T22:06:05.630280",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3331,10 +3331,64 @@
             "symbol": "Ly",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8686525d6627A25C68De82c228448f43c97999F2/logo.png"
+        },
+        {
+            "asset": "c60_t0x54Cb643ab007f47882E8120A8c57B639005c2688",
+            "type": "ERC20",
+            "address": "0x54Cb643ab007f47882E8120A8c57B639005c2688",
+            "name": "IMPACTXPRIME",
+            "symbol": "IXP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x54Cb643ab007f47882E8120A8c57B639005c2688/logo.png"
+        },
+        {
+            "asset": "c60_t0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+            "type": "ERC20",
+            "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+            "name": "Mivie Token",
+            "symbol": "MET",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6/logo.png"
+        },
+        {
+            "asset": "c60_t0xb622400807765e73107B7196F444866D7EdF6f62",
+            "type": "ERC20",
+            "address": "0xb622400807765e73107B7196F444866D7EdF6f62",
+            "name": "Heros Token",
+            "symbol": "HEROS",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb622400807765e73107B7196F444866D7EdF6f62/logo.png"
+        },
+        {
+            "asset": "c60_t0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "type": "ERC20",
+            "address": "0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "name": "LUCKY ROO",
+            "symbol": "ROO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938/logo.png"
+        },
+        {
+            "asset": "c60_t0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+            "type": "ERC20",
+            "address": "0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+            "name": "MetaMerce Token",
+            "symbol": "MMTKN",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26/logo.png"
+        },
+        {
+            "asset": "c60_t0x10f44a834097469AC340592d28c479c442E99bFe",
+            "type": "ERC20",
+            "address": "0x10f44a834097469AC340592d28c479c442E99bFe",
+            "name": "Alcazar",
+            "symbol": "ALCAZAR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x10f44a834097469AC340592d28c479c442E99bFe/logo.png"
         }
     ],
     "version": {
-        "major": 39,
+        "major": 45,
         "minor": 0,
         "patch": 0
     }

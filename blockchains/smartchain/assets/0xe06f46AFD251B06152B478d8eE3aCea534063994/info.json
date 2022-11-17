@@ -2,12 +2,12 @@
     "name": "Vault Finance",
     "website": "https://thevaultfinance.com/",
     "description": "",
-    "explorer": "https://bscscan.com/token/0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+    "explorer": "https://bscscan.com/token/0xe06f46AFD251B06152B478d8eE3aCea534063994",
     "type": "BEP20",
-    "symbol": "VTFC",
+    "symbol": "VFX",
     "decimals": 18,
     "status": "active",
-    "id": "0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+    "id": "0xe06f46AFD251B06152B478d8eE3aCea534063994",
     "tags": [
         "defi"
     ],

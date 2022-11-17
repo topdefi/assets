@@ -1,0 +1,15 @@
+{
+    "name": "LUCKY ROO",
+    "description": "",
+    "website": "https://luckyroo.io",
+    "explorer": "https://bscscan.com/token/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+    "type": "BEP20",
+    "symbol": "ROO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

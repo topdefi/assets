@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-08-03T02:19:24.385224",
+    "timestamp": "2022-10-19T11:32:48.514094",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1140,13 +1140,13 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1/logo.png"
         },
         {
-            "asset": "c20000714_t0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+            "asset": "c20000714_t0xe06f46AFD251B06152B478d8eE3aCea534063994",
             "type": "BEP20",
-            "address": "0x83f8AaeAa9A959293241BA803248cD129C92c31C",
+            "address": "0xe06f46AFD251B06152B478d8eE3aCea534063994",
             "name": "Vault Finance",
-            "symbol": "VTFC",
+            "symbol": "VFX",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x83f8AaeAa9A959293241BA803248cD129C92c31C/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xe06f46AFD251B06152B478d8eE3aCea534063994/logo.png"
         },
         {
             "asset": "c20000714_t0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78",
@@ -1156,10 +1156,64 @@
             "symbol": "DR",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1be04C690fe0Fd83cc939Bc4860728b89ebceb78/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x6266a18F1605DA94e8317232ffa634C74646ac40",
+            "type": "BEP20",
+            "address": "0x6266a18F1605DA94e8317232ffa634C74646ac40",
+            "name": "METFX Watch-To-Earn",
+            "symbol": "MFX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6266a18F1605DA94e8317232ffa634C74646ac40/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+            "type": "BEP20",
+            "address": "0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+            "name": "LunaGens",
+            "symbol": "LUNG",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x28B9aed756De31B6b362aA0f23211D13093EBb79/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4",
+            "type": "BEP20",
+            "address": "0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4",
+            "name": "Bitburn",
+            "symbol": "BURN",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xD1673C00Ac7010bF2c376ebeA43633dd61A81016",
+            "type": "BEP20",
+            "address": "0xD1673C00Ac7010bF2c376ebeA43633dd61A81016",
+            "name": "Heros Token",
+            "symbol": "HEROS",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xD1673C00Ac7010bF2c376ebeA43633dd61A81016/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x9d9fA9DbAe391C3FB6866F43De62FF3B393133b2",
+            "type": "BEP20",
+            "address": "0x9d9fA9DbAe391C3FB6866F43De62FF3B393133b2",
+            "name": "Project X",
+            "symbol": "ProX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9d9fA9DbAe391C3FB6866F43De62FF3B393133b2/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "type": "BEP20",
+            "address": "0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938",
+            "name": "LUCKY ROO",
+            "symbol": "ROO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9d7107c8E30617CAdc11f9692A19C82ae8bbA938/logo.png"
         }
     ],
     "version": {
-        "major": 58,
+        "major": 64,
         "minor": 0,
         "patch": 0
     }

@@ -1,0 +1,14 @@
+{
+    "name": "Bitburn",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4",
+    "type": "BEP20",
+    "symbol": "BURN",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

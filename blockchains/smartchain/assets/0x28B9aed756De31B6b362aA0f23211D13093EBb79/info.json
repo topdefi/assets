@@ -1,0 +1,15 @@
+{
+    "name": "LunaGens",
+    "website": "https://www.lunagens.com/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+    "type": "BEP20",
+    "symbol": "LUNG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

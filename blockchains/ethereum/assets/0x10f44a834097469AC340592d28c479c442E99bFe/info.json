@@ -1,0 +1,15 @@
+{
+    "name": "Alcazar",
+    "website": "https://alcazartoken.io",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x10f44a834097469AC340592d28c479c442E99bFe",
+    "type": "ERC20",
+    "symbol": "ALCAZAR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x10f44a834097469AC340592d28c479c442E99bFe",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
