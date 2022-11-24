@@ -1,0 +1,17 @@
+{
+    "name": "Wrapped FNB",
+    "website": "https://fnbchain.org/",
+    "description": "",
+    "explorer": "https://explorer.finanscan.io/token/0xC6b78d385D0689a0b1604f3b536943Ce14f3bF62",
+    "type": "ERC20",
+    "symbol": "WFNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC6b78d385D0689a0b1604f3b536943Ce14f3bF62",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        }
+    ]
+}
