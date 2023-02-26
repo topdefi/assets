@@ -1,0 +1,17 @@
+{
+    "name": "Wrapped ARC",
+    "website": "https://",
+    "description": "",
+    "explorer": "https://testnet.archiescan.io/token/0x9000688B5C45b9a37e89C33D9033C9073d1913f7",
+    "type": "ERC20",
+    "symbol": "WARC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9000688B5C45b9a37e89C33D9033C9073d1913f7",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        }
+    ]
+}
